@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bootstrap-3.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/bootstrap-3.0.0/bootstrap-3.0.0" />
+      <root url="jar://$USER_HOME$/Downloads/jquery-2.0.3-1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/webjars-locator-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
